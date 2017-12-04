@@ -1,0 +1,6 @@
+usr/local/bin/cocabit-qt usr/bin
+share/pixmaps/cocabit32.xpm usr/share/pixmaps
+share/pixmaps/cocabit16.xpm usr/share/pixmaps
+share/pixmaps/cocabit128.png usr/share/pixmaps
+debian/cocabit-qt.desktop usr/share/applications
+debian/cocabit-qt.protocol usr/share/kde4/services/

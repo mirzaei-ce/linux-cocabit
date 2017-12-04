@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cocabit
+Comment=Cocabit P2P Cryptocurrency
+Comment[fr]=Cocabit, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Cocabit, eşten eşe kriptografik sanal para birimi
+Exec=cocabit-qt %u
+Terminal=false
+Type=Application
+Icon=cocabit128
+MimeType=x-scheme-handler/cocabit;
+Categories=Office;Finance;

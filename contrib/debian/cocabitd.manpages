@@ -1,0 +1,3 @@
+debian/manpages/cocabitd.1
+debian/manpages/cocabit.conf.5
+debian/manpages/cocabit-cli.1
